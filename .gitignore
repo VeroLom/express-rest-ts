@@ -1,0 +1,6 @@
+/node_modules/
+/package-lock.json
+/.idea/vcs.xml
+/.idea/modules.xml
+/dist/index.js
+/.idea/express-rest-ts.iml
