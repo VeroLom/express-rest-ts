@@ -6,7 +6,8 @@ interface User {
    id: number;
    name: string;
    login: string;
-   phone: string;
+   email: string;
+   phone?: string;
 }
 interface DB {
    users: User[];
