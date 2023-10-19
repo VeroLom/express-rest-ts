@@ -10,5 +10,167 @@
     {"id": 8, "name": "Adriano Jain", "login": "ajain", "email": "ajain@gmail.com", "phone": "+1 99 9654221"},
     {"id": 9, "name": "Kossi Rose", "login": "krose", "email":  "krose@gmail.com", "phone": "+1 99 9354321"},
     {"id": 10, "name": "Shapur Nováček", "login": "snovacek", "email": "snovacek@gmail.com", "phone": "+1 99 9634321"}
+  ],
+  "bewerbungs": [
+    {
+      "id": 1,
+      "status": "STATUS_NEW",
+      "company": "Mante, Nader and Lakin",
+      "city": "Snegiri",
+      "position": "Data Coordinator",
+      "link": "73.66.134.177"
+    },
+    {
+      "id": 2,
+      "status": "STATUS_NEW",
+      "company": "Nicolas LLC",
+      "city": "Podgorica",
+      "position": "Occupational Therapist",
+      "link": "33.111.185.102"
+    },
+    {
+      "id": 3,
+      "status": "STATUS_NEW",
+      "company": "Smith and Sons",
+      "city": "Solna",
+      "position": "Teacher",
+      "link": "191.179.124.208"
+    },
+    {
+      "id": 4,
+      "status": "STATUS_NEW",
+      "company": "McGlynn, Champlin and Moore",
+      "city": "Ngembel",
+      "position": "Marketing Manager",
+      "link": "138.108.241.68"
+    },
+    {
+      "id": 5,
+      "status": "STATUS_NEW",
+      "company": "Padberg-Cassin",
+      "city": "Metsovo",
+      "position": "Nurse",
+      "link": "199.121.165.244"
+    },
+    {
+      "id": 6,
+      "status": "STATUS_NEW",
+      "company": "Bruen, Kertzmann and Pollich",
+      "city": "Banī an Nahārī",
+      "position": "Physical Therapy Assistant",
+      "link": "61.118.132.143"
+    },
+    {
+      "id": 7,
+      "status": "STATUS_NEW",
+      "company": "Shields, Haley and Becker",
+      "city": "Banjar Asahduren",
+      "position": "Software Engineer I",
+      "link": "43.113.85.165"
+    },
+    {
+      "id": 8,
+      "status": "STATUS_NEW",
+      "company": "Carroll Group",
+      "city": "Novotroitskaya",
+      "position": "Software Test Engineer III",
+      "link": "5.126.140.163"
+    },
+    {
+      "id": 9,
+      "status": "STATUS_NEW",
+      "company": "Dach-Willms",
+      "city": "Gualeguay",
+      "position": "Staff Accountant III",
+      "link": "241.206.252.209"
+    },
+    {
+      "id": 10,
+      "status": "STATUS_NEW",
+      "company": "Watsica-Wyman",
+      "city": "Voinjama",
+      "position": "VP Product Management",
+      "link": "167.106.145.255"
+    },
+    {
+      "id": 11,
+      "status": "STATUS_NEW",
+      "company": "Gerhold Group",
+      "city": "Hollola",
+      "position": "Media Manager III",
+      "link": "60.224.8.62"
+    },
+    {
+      "id": 12,
+      "status": "STATUS_NEW",
+      "company": "O'Reilly, Nolan and O'Conner",
+      "city": "Tingzhou",
+      "position": "Senior Editor",
+      "link": "161.131.24.242"
+    },
+    {
+      "id": 13,
+      "status": "STATUS_NEW",
+      "company": "Morar LLC",
+      "city": "Meishan",
+      "position": "Account Coordinator",
+      "link": "21.60.160.14"
+    },
+    {
+      "id": 14,
+      "status": "STATUS_NEW",
+      "company": "Hackett and Sons",
+      "city": "Mang’it Shahri",
+      "position": "Senior Editor",
+      "link": "121.26.204.205"
+    },
+    {
+      "id": 15,
+      "status": "STATUS_NEW",
+      "company": "Runte-Haag",
+      "city": "Velyka Lepetykha",
+      "position": "Staff Accountant II",
+      "link": "247.84.129.13"
+    },
+    {
+      "id": 16,
+      "status": "STATUS_NEW",
+      "company": "Adams-Macejkovic",
+      "city": "Oskarshamn",
+      "position": "Software Consultant",
+      "link": "68.155.73.19"
+    },
+    {
+      "id": 17,
+      "status": "STATUS_NEW",
+      "company": "O'Kon and Sons",
+      "city": "Bandhagen",
+      "position": "VP Accounting",
+      "link": "92.92.243.124"
+    },
+    {
+      "id": 18,
+      "status": "STATUS_NEW",
+      "company": "Cummerata LLC",
+      "city": "Sioux Falls",
+      "position": "Programmer II",
+      "link": "215.73.137.199"
+    },
+    {
+      "id": 19,
+      "status": "STATUS_NEW",
+      "company": "Wintheiser LLC",
+      "city": "Bystré",
+      "position": "Web Developer III",
+      "link": "229.7.119.29"
+    },
+    {
+      "id": 20,
+      "status": "STATUS_NEW",
+      "company": "Koepp Group",
+      "city": "Pulau Tiga",
+      "position": "Human Resources Assistant I",
+      "link": "24.152.47.102"
+    }
   ]
 }
